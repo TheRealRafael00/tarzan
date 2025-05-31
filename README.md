@@ -46,15 +46,18 @@
 ## 🛠️ Cara Instalasi
 
 ### 🔹 Metode 1 – One-liner Termux Installer
-```bash
+```
 pkg update -y && pkg upgrade -y && pkg install git python -y && pip install requests && cd && git clone https://github.com/TheRealRafael00/tarzan && cd tarzan && python vip.py
+```
 
 🔹 Metode 2 – Manual Clone
 
+```
 git clone https://github.com/TheRealRafael00/tarzan
 cd tarzan
 pip install requests
 python vip.py
+```
 
 
 ---
